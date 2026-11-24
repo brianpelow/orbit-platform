@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-23T10:20:33.244765+00:00",
-  "date": "2026-11-23",
+  "generated_at": "2026-11-24T12:01:22.200000+00:00",
+  "date": "2026-11-24",
   "self_validation": {
     "passed": true,
-    "service_id": "SVC-44377",
+    "service_id": "SVC-14000",
     "failures": [],
     "policy_violations": []
   }
